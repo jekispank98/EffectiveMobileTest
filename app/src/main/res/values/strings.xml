@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EffectiveMobileTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="HOTEL">Отель</string>
+    <string name="TO_PAY">Оплатить</string>
+    <string name="ORDER_IN_WORK_DESC">Подтверждение заказа №%s может занять некоторое время (от 1 часа до суток). Как только мы получим ответ от туроператора, вам на почту придет уведомление.</string>
+</resources>
