@@ -51,7 +51,7 @@
             android:layout_marginBottom="8dp"
             android:background="@drawable/rect_rounded_rating_shape"
             android:backgroundTint="@color/sky_blue"
-            android:text="Подробнее о номере"
+            android:text="@string/MORE_DETAILED_ABOUT_NUMBER"
             android:textSize="16sp"
             android:textColor="@color/bright_blue"
             android:drawablePadding="12dp"
@@ -90,7 +90,7 @@
             android:layout_height="48dp"
             android:layout_margin="16dp"
             android:background="@drawable/rect_rounded_button_shape"
-            android:text="Выбрать номер"
+            android:text="@string/CHOOSE_NUMBER"
             android:textSize="16sp"
             android:textColor="@color/white"
             android:textAllCaps="false"/>

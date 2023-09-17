@@ -87,7 +87,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="16dp"
-                    android:text="Об отеле"
+                    android:text="@string/ABOUT_HOTEL"
                     android:textColor="@color/black"
                     android:textSize="22sp"
                     android:textStyle="bold" />
@@ -142,7 +142,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Удобства"
+                            android:text="@string/CONVENIENCES"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -150,7 +150,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Самое необходимое"
+                            android:text="@string/MUST_HAVE"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
 
@@ -199,7 +199,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Что включено"
+                            android:text="@string/INCLUDED"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -207,7 +207,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Самое необходимое"
+                            android:text="@string/MUST_HAVE"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
 
@@ -257,7 +257,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Что не включено"
+                            android:text="@string/NOT_INCLUDED"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -265,7 +265,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Самое необходимое"
+                            android:text="@string/MUST_HAVE"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
 
@@ -289,7 +289,7 @@
             android:layout_height="48dp"
             android:layout_margin="16dp"
             android:background="@drawable/rect_rounded_button_shape"
-            android:text="К выбору номера"
+            android:text="@string/TO_CHOOSING_NUMBER"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="16sp" />

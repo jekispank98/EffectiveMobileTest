@@ -31,7 +31,7 @@
             android:layout_marginTop="19dp"
             android:layout_marginBottom="16dp"
             android:gravity="center"
-            android:text="Заказ оплачен"
+            android:text="@string/ORDER_IS_PAID"
             android:textColor="@color/black"
             android:textSize="18sp" />
 
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="32dp"
-        android:text="Ваш заказ принят в работу"
+        android:text="@string/ORDER_TO_WORK"
         android:textSize="22sp"
         android:textStyle="bold" />
 
@@ -78,7 +78,7 @@
         android:background="@drawable/rect_rounded_button_shape"
         android:layout_gravity="bottom"
         android:layout_marginBottom="28dp"
-        android:text="Супер!"
+        android:text="@string/SUPER"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="16sp" />

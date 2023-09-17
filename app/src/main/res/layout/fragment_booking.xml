@@ -35,7 +35,7 @@
                 android:layout_marginTop="19dp"
                 android:layout_marginBottom="16dp"
                 android:gravity="center"
-                android:text="Бронирование"
+                android:text="@string/BOOKING"
                 android:textColor="@color/black"
                 android:textSize="18sp" />
 
@@ -69,7 +69,7 @@
                         android:id="@+id/label_departure_from"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Вылет из"
+                        android:text="@string/DEPARTURE_FROM"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -93,7 +93,7 @@
                         android:id="@+id/label_country_city"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Страна, город"
+                        android:text="@string/COUNTRY_CITY"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -117,7 +117,7 @@
                         android:id="@+id/label_dates"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Даты"
+                        android:text="@string/DATES"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -141,7 +141,7 @@
                         android:id="@+id/label_count_of_nights"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Кол-во ночей"
+                        android:text="@string/COUNT_OF_NIGHT"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -165,7 +165,7 @@
                         android:id="@+id/label_hotel_name"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Отель"
+                        android:text="@string/HOTEL"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -189,7 +189,7 @@
                         android:id="@+id/label_room"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Номер"
+                        android:text="@string/ROOM"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -212,7 +212,7 @@
                         android:id="@+id/label_food"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Питание"
+                        android:text="@string/FOOD"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -246,14 +246,14 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Информация о покупателе"
+                    android:text="@string/INFO_ABOUT_CUSTOMER"
                     android:textColor="@color/black"
                     android:textSize="22sp" />
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Номер телефона"
+                    android:hint="@string/PHONE_NUMBER"
                     android:textColorHint="@color/gray"
                     app:hintTextColor="@color/gray">
 
@@ -271,7 +271,7 @@
                     android:id="@+id/mail_edit_text_layout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Почта"
+                    android:hint="@string/EMAIL"
                     android:textColorHint="@color/gray"
                     app:hintTextColor="@color/gray">
 
@@ -288,7 +288,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="Эти данные никому не передаются. После оплаты мы вышли чек на указанный вами номер и почту"
+                    android:text="@string/DATA_PROTECT_INFO"
                     android:textColor="@color/gray"
                     android:textSize="14sp" />
 
@@ -328,7 +328,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:text="Добавить туриста"
+                    android:text="@string/ADD_TOURIST"
                     android:textColor="@color/black"
                     android:textSize="22sp" />
 
@@ -367,7 +367,7 @@
                         android:id="@+id/label_tour_cost"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Питание"
+                        android:text="@string/FOOD"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -393,7 +393,7 @@
                         android:id="@+id/label_fuel_cost"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Топливный сбор"
+                        android:text="@string/FUEL_CHARGE"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -419,7 +419,7 @@
                         android:id="@+id/label_service_cost"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="Сервисный сбор"
+                        android:text="@string/SERVICE_CHARGE"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 
@@ -445,7 +445,7 @@
                         android:id="@+id/label_to_be_paid"
                         android:layout_width="140dp"
                         android:layout_height="wrap_content"
-                        android:text="К оплате"
+                        android:text="@string/FOR_PAYMENT"
                         android:textColor="@color/gray"
                         android:textSize="16sp" />
 

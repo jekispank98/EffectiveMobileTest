@@ -1,8 +1,40 @@
 <resources>
     <string name="app_name">EffectiveMobileTest</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="HOTEL">Отель</string>
     <string name="TO_PAY">Оплатить</string>
     <string name="ORDER_IN_WORK_DESC">Подтверждение заказа №%s может занять некоторое время (от 1 часа до суток). Как только мы получим ответ от туроператора, вам на почту придет уведомление.</string>
+    <string name="FIRST_TOURIST">Первый турист</string>
+    <string name="NAME">Имя</string>
+    <string name="FIRST_NAME">Фамилия</string>
+    <string name="DATE_OF_BIRTH">Дата рождения</string>
+    <string name="CITIZENSHIP">Гражданство</string>
+    <string name="VALIDITY_OF_PASSPORT">Срок действия загранпаспорта</string>
+    <string name="PASSPORT_NUMBER">Номер загранпаспорта</string>
+    <string name="BOOKING">Бронирование</string>
+    <string name="DEPARTURE_FROM">Вылет из</string>
+    <string name="COUNTRY_CITY">Страна, город</string>
+    <string name="DATES">Даты</string>
+    <string name="COUNT_OF_NIGHT">Кол-во ночей</string>
+    <string name="ROOM">Номер</string>
+    <string name="FOOD">Питание</string>
+    <string name="INFO_ABOUT_CUSTOMER">Информация о покупателе</string>
+    <string name="PHONE_NUMBER">Номер телефона</string>
+    <string name="EMAIL">Почта</string>
+    <string name="DATA_PROTECT_INFO">Эти данные никому не передаются. После оплаты мы вышли чек на указанный вами номер и почту</string>
+    <string name="ADD_TOURIST">Добавить туриста</string>
+    <string name="FUEL_CHARGE">Топливный сбор</string>
+    <string name="SERVICE_CHARGE">Сервисный сбор</string>
+    <string name="FOR_PAYMENT">К оплате</string>
+    <string name="ABOUT_HOTEL">Об отеле</string>
+    <string name="CONVENIENCES">Удобства</string>
+    <string name="MUST_HAVE">Самое необходимое</string>
+    <string name="INCLUDED">Что включено</string>
+    <string name="NOT_INCLUDED">Что не включено</string>
+    <string name="TO_CHOOSING_NUMBER">К выбору номера</string>
+    <string name="ORDER_TO_WORK">Ваш заказ принят в работу</string>
+    <string name="SUPER">Супер!</string>
+    <string name="MORE_DETAILED_ABOUT_NUMBER">Подробнее о номере</string>
+    <string name="CHOOSE_NUMBER">Выбрать номер</string>
+    <string name="ORDER_IS_PAID">Заказ оплачен</string>
 </resources>
